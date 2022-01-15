@@ -229,12 +229,12 @@ Image("Screenshot.png")
 
 
 ```python
-Image("Screenshot1.png")
+Image("https://github.com/immanuvelprathap/OpenCV-Tesseract-EAST-Text-Detector/blob/master/Screenshot1.png")
 ```
 
 
 
 
     
-![png](output_3_0.png)
+![png](https://github.com/immanuvelprathap/OpenCV-Tesseract-EAST-Text-Detector/blob/master/Screenshot2.png)
     
