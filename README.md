@@ -204,19 +204,6 @@ if __name__ == '__main__':
     cv2.destroyAllWindows()
 ```
 
-    usage: ipykernel_launcher.py [-h] [-v VIDEO] -east EAST [-c MIN_CONFIDENCE]
-                                 [-w WIDTH] [-e HEIGHT] [-p PADDING]
-    ipykernel_launcher.py: error: the following arguments are required: -east/--east
-
-
-
-    An exception has occurred, use %tb to see the full traceback.
-
-
-    SystemExit: 2
-
-
-
 
 ```python
 #RUN THIS TO SEE THE DETECTION
@@ -231,3 +218,23 @@ from IPython.display import Image
 Image("Screenshot.png")
 ```
 
+
+
+
+    
+![png](output_2_0.png)
+    
+
+
+
+
+```python
+Image("Screenshot1.png")
+```
+
+
+
+
+    
+![png](output_3_0.png)
+    
