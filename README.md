@@ -222,7 +222,7 @@ Image("Screenshot.png")
 
 
     
-![png](output_2_0.png)
+![png](https://github.com/immanuvelprathap/OpenCV-Tesseract-EAST-Text-Detector/blob/master/Screenshot.png)
     
 
 
