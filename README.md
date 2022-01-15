@@ -35,6 +35,8 @@ python text_recognition.py --east frozen_east_text_detection.pb --image test.png
 python text_recognition.py --east frozen_east_text_detection.pb --image test.png --padding 0.25
 ```
 
+
+## Video Text Detection
 ```python
 from imutils.video import VideoStream
 from imutils.video import FPS
