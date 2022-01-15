@@ -228,9 +228,9 @@ Image("Screenshot.png")
 
 
 
-```python
+
 ![png](https://github.com/immanuvelprathap/OpenCV-Tesseract-EAST-Text-Detector/blob/master/Screenshot1.png)
-```
+
 
 
 
